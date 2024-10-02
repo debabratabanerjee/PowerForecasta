@@ -1,0 +1,25 @@
+2024-09-21 18:51:59,904 - Date column missing in file: SN.xlsx
+2024-09-21 18:52:07,836 - Date column missing in file: WN.xlsx
+2024-09-21 18:52:26,114 - Adjusted demand after Open Access for 2024-09-21 00:00:00 Block 1: 3397175.995 kWh
+2024-09-21 18:52:26,115 - Adjusted demand after Bank for 2024-09-21 00:00:00 Block 1: 3397175.995 kWh (Bank adjustment: 0.0 kWh)
+2024-09-21 18:52:26,115 - Starting optimization for demand after adjustments: 3397175.995 kWh on 2024-09-21 00:00:00 Block 1
+2024-09-21 18:52:26,122 - Block 1 on 2024-09-21 00:00:00: Original Demand: 3397175.995 kWh, After Must-Run Generators: 2970395.995 kWh
+2024-09-21 18:52:26,124 - Grid Cost for Block 1 on 2024-09-21 00:00:00: 3.64 INR/kWh
+2024-09-21 18:52:26,305 - Available Generator Demand Met: 1421678.956 kWh, Cost: 4529467.352020771 INR
+2024-09-21 18:52:26,306 - Using Exchange Grid for 1548717.039 kWh at cost 5637330.0219600005 INR
+2024-09-21 18:52:26,380 - Results saved to C:\Users\DebabrataBanerjee\Documents\power_forcasting_final\build\exe.win-amd64-3.11\output\power_optimization_results_ui_2024-09-21_to_2024-09-21_block_1_to_1.xlsx
+2024-09-21 18:53:12,628 - Adjusted demand after Open Access for 2024-09-21 00:00:00 Block 1: 3397175.995 kWh
+2024-09-21 18:53:12,629 - Adjusted demand after Bank for 2024-09-21 00:00:00 Block 1: 3397175.995 kWh (Bank adjustment: 0.0 kWh)
+2024-09-21 18:53:12,630 - Starting optimization for demand after adjustments: 3397175.995 kWh on 2024-09-21 00:00:00 Block 1
+2024-09-21 18:53:12,634 - Adjusted demand after Open Access for 2024-09-21 00:00:00 Block 2: 3383422.4650000003 kWh
+2024-09-21 18:53:12,635 - Adjusted demand after Bank for 2024-09-21 00:00:00 Block 2: 3383422.4650000003 kWh (Bank adjustment: 0.0 kWh)
+2024-09-21 18:53:12,635 - Starting optimization for demand after adjustments: 3383422.4650000003 kWh on 2024-09-21 00:00:00 Block 2
+2024-09-21 18:53:12,643 - Block 1 on 2024-09-21 00:00:00: Original Demand: 3397175.995 kWh, After Must-Run Generators: 2970395.995 kWh
+2024-09-21 18:53:12,645 - Grid Cost for Block 1 on 2024-09-21 00:00:00: 3.64 INR/kWh
+2024-09-21 18:53:12,669 - Block 2 on 2024-09-21 00:00:00: Original Demand: 3383422.4650000003 kWh, After Must-Run Generators: 2962914.9650000003 kWh
+2024-09-21 18:53:12,670 - Grid Cost for Block 2 on 2024-09-21 00:00:00: 4.1 INR/kWh
+2024-09-21 18:53:12,731 - Available Generator Demand Met: 1421678.956 kWh, Cost: 4529467.352020771 INR
+2024-09-21 18:53:12,731 - Using Exchange Grid for 1548717.039 kWh at cost 5637330.0219600005 INR
+2024-09-21 18:53:12,761 - Available Generator Demand Met: 1390823.956 kWh, Cost: 4536403.841815529 INR
+2024-09-21 18:53:12,761 - Using Exchange Grid for 1572091.0090000003 kWh at cost 6445573.1369 INR
+2024-09-21 18:53:12,810 - Results saved to C:\Users\DebabrataBanerjee\Documents\power_forcasting_final\build\exe.win-amd64-3.11\output\power_optimization_results_ui_2024-09-21_to_2024-09-21_block_1_to_2.xlsx
